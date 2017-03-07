@@ -15,23 +15,23 @@
     <head>
         <link rel="stylesheet" type="text/css" href="css/estiloIndex.css">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Votaciones Cerrillo</title>
         
     </head>
     <body>
         <div id="encabezado">
 
-            <h1>Votaciones Partidos políticos 2016</h1>
+            <h1>Votaciones Partidos políticos 2017</h1>
 
         
         </div>
 
 
         <div id="formu">
-            <h3 class="log">Login</h3>
+            <h3 class="log">Log In</h3>
             <form action="ControladorIndex">
 
-                DNI:    <input type="text" name="dni" required="required">
+                DNI/NIF/NIE:    <input type="text" name="dni" required="required">
 
                 Password: <input type="password" name="pass" required="required">
 
