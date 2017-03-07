@@ -1,0 +1,42 @@
+body{
+    background-color:#9399C5 ;
+}
+.boton{
+    width: 100px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 15px;
+    float: left;
+    border: none;
+    background: #3a7999;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+
+
+}
+.boton:hover {
+    background: rgba(0,0,0,0);
+    color: #3a7999;
+    box-shadow: inset 0 0 0 3px #3a7999;
+}
+#botones{
+    position: relative;
+    left: 400px;
+
+}
+#formulario{
+    position: relative;
+    top: 200px;
+    
+    height: 150px;
+    
+    background-color: white;
+    border-radius: 47px 47px 47px 47px;
+    -moz-border-radius: 47px 47px 47px 47px;
+    -webkit-border-radius: 47px 47px 47px 47px;
+}

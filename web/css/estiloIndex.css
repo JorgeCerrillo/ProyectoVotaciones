@@ -1,0 +1,47 @@
+body{
+    background-color: #9399C5;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#encabezado{
+    text-align: center;
+    color: white;
+    background-color: #2539D5;
+    height: 150px;
+    width: 100%;
+    border-radius: 47px 47px 47px 47px;
+    -moz-border-radius: 47px 47px 47px 47px;
+    -webkit-border-radius: 47px 47px 47px 47px;
+    border: 0px solid #000000;
+}
+
+
+
+
+#formu{
+    background-color: white;
+    padding: 35px;
+    height: 200px;
+    width: 200px;
+    border-radius: 47px 47px 47px 47px;
+    -moz-border-radius: 47px 47px 47px 47px;
+    -webkit-border-radius: 47px 47px 47px 47px;
+    border: 0px solid #000000;
+    position: relative;
+    left: 38%;
+    margin-top: 80px;
+    text-align: center;
+
+}
+.boton{
+    float: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 80px;
+}
+
+.log{
+    background-color: orange;
+    margin-top: 0px;
+}

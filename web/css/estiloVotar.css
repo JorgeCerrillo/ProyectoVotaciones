@@ -1,0 +1,48 @@
+body{
+    background-color: #9399C5;
+}
+
+#formula{
+    background-color: white;
+    padding: 35px;
+    height: 250px;
+    width: 200px;
+    border-radius: 47px 47px 47px 47px;
+    -moz-border-radius: 47px 47px 47px 47px;
+    -webkit-border-radius: 47px 47px 47px 47px;
+    border: 0px solid #000000;
+    position: relative;
+    left: 38%;
+    margin-top: 80px;
+    
+
+}
+.boton{
+    width: 100px;
+    
+    margin-left: 25px;
+    margin-top: 20px;
+    
+    border: none;
+    background: #3a7999;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    position: relative;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+
+
+}
+.boton:hover {
+    background: rgba(0,0,0,0);
+    color: #3a7999;
+    box-shadow: inset 0 0 0 3px #3a7999;
+}
+
+.rad{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
