@@ -25,6 +25,9 @@
                 <input type="submit" name="submit" value="cierre" class="boton">
                 <input type="submit" name="submit" value="baja" class="boton">
                 <input type="submit" name="submit" value="salir" class="boton">
+                <input type="submit" name="submit" value="otro1" class="boton">
+                <input type="submit" name="submit" value="otro2" class="boton">
+                <input type="submit" name="submit" value="otro3" class="boton">
                 
                 </div>
             </form>
